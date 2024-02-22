@@ -1,16 +1,6 @@
-### Hi, I'm Tiago 🫠
+### Hi, I'm Tiago 
 
-```java
-public Class Tiago{
-  private final String name = "Tiago Pacheco";
-  private int age = 21;
-  private String country = "Portugal";
-  private String[] education = {"Agrupamento de Escolas de Vilela",
-                                "ESTG - Software Engineer"};
-  private boolean isProgrammer = true;
-}
 
-```
 
 <details>
   <summary>GitHub Stats 📊 </summary>
