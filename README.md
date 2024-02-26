@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Welcome,%20I'm%20Tiago&section=header&reversal=false&fontAlignY=40"/>
 </p>
 
-## Some Info
+## 📖 Some Info
 ### This is a fresh portfolio showcasing a collection of my work.
 
 <details>
@@ -41,7 +41,7 @@ When I'm not immersed in code, you can find me:
 - Doing some new art or code project
 
 ## 📫 Let's Connect!
-Feel free to reach out if you share similar interests, have project ideas, or just want to chat. Connect with me on
+Feel free to reach out.
 
 
 <a target="_blank" href="https://www.linkedin.com/in/tiago-pacheco-4b4b252a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
