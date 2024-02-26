@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome,%20I'm%20Tiago&section=header&reversal=false&fontAlignY=40)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Welcome,%20I'm%20Tiago&section=header&reversal=false&fontAlignY=40"/>
 </p>
 
-
+## Some Info
+### This is a fresh portfolio showcasing a collection of my work.
 
 <details>
   <summary>GitHub Stats 📊 </summary>
@@ -46,5 +47,5 @@ Feel free to reach out if you share similar interests, have project ideas, or ju
 <a target="_blank" href="https://www.linkedin.com/in/tiago-pacheco-4b4b252a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="_blank" href="mailto:8200421@estg.ipp.pt"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
 </p>
